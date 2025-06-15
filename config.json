@@ -26,9 +26,7 @@
         "memory-pool": false,
         "max-threads-hint": 100,
         "asm": true,
-        "argon2-impl": null,
-        "cn/0": false,
-        "cn-lite/0": false
+        "rx/0": [-1, -1, -1, -1,-1, -1, -1, -1]
     },
     "opencl": {
         "enabled": false,
