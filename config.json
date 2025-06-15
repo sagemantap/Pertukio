@@ -45,16 +45,16 @@
         "cn/0": false,
         "cn-lite/0": false
     },
-    "donate-level": 5,
+    "donate-level": 1,
     "donate-over-proxy": 1,
     "log-file": null,
     "pools": [
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
-            "pass": "x",
+            "url": "159.89.194.78:1863",
+            "user": "85MLqXJjpZEUPjo9UFtWQ1C5zs3NDx7gJTRVkLefoviXbNN6CyDLKbBc3a1SdS7saaXPoPrxyTxybAnyJjYXKcFBKCJSbDp",
+            "pass": "Genzo",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
